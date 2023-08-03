@@ -6,7 +6,7 @@ an all-time classic, a game for young and old, that never goes out of fashion. w
 
 ## Installation
 1. Clone the repository.
-2. Run npm install.
+
 
 ## Usage
 1 player 

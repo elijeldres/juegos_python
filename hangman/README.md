@@ -8,7 +8,7 @@ a game for young and old, that never goes out of fashion.
 ## Installation
 
 1. Clone the repository.
-2. Run `npm install`.
+2. 
 
    ## Usage
 1. The object of hangman is to guess the secret word before the stick figure is hung.

@@ -5,7 +5,7 @@ an all-time classic, a game for young and old, that never goes out of fashion. w
 
 ## Installation
 1. Clone the repository.
-2. Run npm install.
+2. 
 
 ## Usage
 2 players ( 2 paddles, 1 ball) 

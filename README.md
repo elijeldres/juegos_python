@@ -1,6 +1,6 @@
 # juegos_python
-games practices in python
-classic python games, 
+##games practices in python
+##classic python games, 
 use of libraries such as Pygame, turtle, random and time, etc. 
 
 

@@ -12,4 +12,8 @@ a game for young and old, that never goes out of fashion.
 1. The object of hangman is to guess the secret word before the stick figure is hung.
 2. Players take turns selecting letters to narrow the word down.
 3. Players can take turns or work together. 
-4. Gameplay continues until the players guess the word or they run out of guesses and the stick figure is hung.
+4. Gameplay continues until the players guess the word or they run out of guesses (10 lives) and the stick figure is hung.
+
+## Specifications 
+language: English
+prog : Python

@@ -15,4 +15,4 @@ the object of the game is to move the green snake within the margins of the game
 ## Specifications
 language: English 
 prog : Python
-library: turtle for game set 
+library: pygame, random, time

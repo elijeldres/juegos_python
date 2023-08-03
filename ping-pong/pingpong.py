@@ -4,7 +4,7 @@
 # import turtle for game set, the sympliest way to create games, there is also PYGAME
 import turtle
 
-from snake import game_over, game_over_message
+#from snake import game_over, game_over_message 
 
 #create window to play as wn 
 wn = turtle.Screen()

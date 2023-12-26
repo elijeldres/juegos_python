@@ -6,6 +6,7 @@ an all-time classic, a game for young and old, that never goes out of fashion. w
 
 ## Installation
 1. Clone the repository.
+2. pip install pygame, random, time
 
 
 ## Usage
@@ -17,5 +18,5 @@ the object of the game is to move the green snake within the margins of the game
 
 ## Specifications
 language: English 
-prog : Python
+prog : Python 3.9.1
 library: pygame, random, time
